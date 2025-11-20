@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML • LLMs & RAG • Data Science • Analytics — Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnvithaAnand/Anvitha_Anand_profile/main/UTSEH078Aw.gif" 
+  <img src="https://raw.githubusercontent.com/AnvithaAnand/AnvithaAnand/main/UTSEH078Aw.gif" 
        width="260" 
        alt="GIF">
 </p>
